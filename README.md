@@ -65,21 +65,21 @@ Expected output:
 
 🧰 Project Structure
 
-```
+<pre>
 password-generator/
 ├─ src/
-│ └─ password_gen/
-│ ├─ init.py
-│ ├─ main.py
-│ ├─ charset.py
-│ ├─ cli.py
-│ └─ generator.py
+│  └─ password_gen/
+│     ├─ __init__.py
+│     ├─ __main__.py
+│     ├─ charset.py
+│     ├─ cli.py
+│     └─ generator.py
 ├─ tests/
-│ ├─ conftest.py
-│ └─ test_generator.py
+│  ├─ conftest.py
+│  └─ test_generator.py
 ├─ pyproject.toml
 └─ README.md
-```
+</pre>
 
 🧑‍💻 Development Notes
 
