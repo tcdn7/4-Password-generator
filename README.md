@@ -100,4 +100,4 @@ v0.1.0 – Initial release
 
 👤 Author
 Tacdin Özmen
-💻 [GitHub Profile] https://github.com/tcdn7
+💻 [GitHub Profile](https://github.com/tcdn7)
