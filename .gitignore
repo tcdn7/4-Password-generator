@@ -1,11 +1,35 @@
-# Python
+# Python cache & compiled files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
 .venv/
-.env
+.env/
+env/
+venv/
 
-# VS Code
+# Build & packaging artifacts
+build/
+dist/
+*.egg-info/
+src/password_gen.egg-info/
+*.eggs/
+*.egg
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code & IDE configs
 .vscode/
+.idea/
 
-# pytest
-.cache/
+# Jupyter / Anaconda / Misc
+.ipynb_checkpoints/
+*.sqlite
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
